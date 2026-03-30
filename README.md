@@ -1,3 +1,5 @@
+![logo](https://github.com/ArnavRajDas/ArnavRajDas/blob/main/LOGO%20git.png)
+
 <h1 align="center">Hi, I'm Arnav Raj</h1>
 <h3 align="center" style="text-transform: uppercase;">Debugging code, building ideas & figuring things out</h3>
 <h3 align="center" style="text-transform: capitalize;"> Turning ideas into code → working with C/C++ & frontend</h3>
