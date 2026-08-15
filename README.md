@@ -4,8 +4,8 @@
 <h3 align="center" style="text-transform: uppercase;">Debugging code, building ideas & figuring things out</h3>
 <h3 align="center" style="text-transform: capitalize;"> Turning ideas into code → working with C/C++ & frontend</h3>
 <h3 align="center" style="text-transform: capitalize;"> diving into python & mysql → gradually stepping into MERN + genAI</h3>
-<h3 align="center" style="text-transform: capitalize;">Co-building @TechEra → learning in public & growing every day </h3>
-<h3 align="center" style="text-transform: capitalize;"> Open to collaborations & open-source → creating things that actually matter </h3>
+<h3 align="center" style="text-transform: capitalize;">Co-Founder @TechEra → learning in public & growing every day </h3>
+<h3 align="center" style="text-transform: capitalize;"> Open to collaborations & open source → creating things that actually matter </h3>
 
 
 <p align="left"><img src="https://visitor-badge.laobi.icu/badge?page_id=ArnavRajDas.ArnavRajDas&title=Profile%20views&labelColor=0e75b6&countColor=white" alt="Profile views" /></p>
@@ -24,8 +24,12 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 # 📊 GitHub Stats:
 
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arnavrajdas&theme=dark" alt="arnavrajdas" /></p>
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=ArnavRajDas&theme=dark&hide_border=true&border_radius=10"
+    alt="GitHub Streak"
+  />
+</p>
 
 ### 🔝 GitHub Profile Stats
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArnavRajDas&theme=dark" alt="GitHub Profile Stats" /></p>
